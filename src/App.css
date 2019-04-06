@@ -1,0 +1,22 @@
+.row {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.row button {
+  width: 10vh;
+}
+
+label {
+  margin: 3px;
+}
+
+input[type='checkbox'] {
+  margin: 0 5px 0 0;
+}
+
+span {
+  color: red;
+  font-size: 10px;
+}
